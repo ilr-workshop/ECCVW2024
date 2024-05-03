@@ -15,7 +15,7 @@
 - name: Varun Jampani
   url: https://scholar.google.com/citations?user=1Cv6Sf4AAAAJ&hl=en
   i18n: Varun Jampani
-  img: /static/assets/img/landing/varun.jpg
+  img: /static/assets/img/landing/varun.jpeg
   desc: Lead Researcher at Stability AI
   title: 
   abstract: 
@@ -24,7 +24,7 @@
 - name: Giorgos Kordopatis-Zilos
   url: https://scholar.google.com/citations?user=Do-7qx4AAAAJ&hl=en
   i18n: Giorgos Kordopatis-Zilos
-  img: /static/assets/img/landing/giorgos.jpeg
+  img: /static/assets/img/landing/giorgos.jpg
   desc: Postdoctoral Researcher at the CTU in Prague
   title: 
   abstract: 
