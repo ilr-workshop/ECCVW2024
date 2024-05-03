@@ -6,17 +6,17 @@
   tpl: about.html
   css:
 
-- id: Challenge
-  i18n: nav.challenge
-  name: challenges
-  tpl: challenge.html
-  css: challenge
+# - id: Challenge
+#   i18n: nav.challenge
+#   name: challenges
+#   tpl: challenge.html
+#   css: challenge
 
-- id: Timetable
-  i18n: nav.Timetable
-  name: Timetable
-  tpl: timetable.html
-  css: timeline
+# - id: Timetable
+#   i18n: nav.Timetable
+#   name: Timetable
+#   tpl: timetable.html
+#   css: timeline
 
 # - id: Schedule
 #   i18n: nav.schedule
