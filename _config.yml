@@ -1,0 +1,66 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: ILR2024
+description: The Official Site of ECCV 2024 Workshop, Instance-Level Recognition Workshop
+keywords: Instance, Landmarks, Artworks, Products, ECCVW2024
+baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://ilr-workshop.github.io/ECCVW2024/  # url should be 'http://<github_username>.github.io/homepage' as before
+# url: http://127.0.0.1:4000
+img_path: /ilr-workshop/ECCVW2024/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: ILR2024   # Be used at blog posts' author.
+  first_name:   # Be used at index page about me section.
+  last_name: ILR2024  # Be used at index page about me section.
+  #avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  #github_username: jarrekk  # Leave blank if you don't have now
+  #linkedin_id: jarrekk # Leave blank if you don't have now
+  #facebook_username: jiakunnj  # Leave blank if you don't have now
+  #twitter_username: jiakun614  # Leave blank if you don't have now
+  email: ilr-workshop@googlegroups.com  # Leave blank if you don't have now
+  #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  desc: >
+    <p>Visual instance-level recognition and retrieval are fundamental tasks in computer vision. Despite the recent advances in this field, many techniques have been evaluated on a limited number of domains, with small number of classes. We believe that the research community can benefit from a new suite of datasets and associated challenges, to improve the understanding about the limitations of current technology, and with an opportunity to introduce new techniques. </p><p>This year, we propose the first Universal Image Embedding Challenge, where the goal is to develop image representations that work well across several domains combined.</p><p>The Instance-Level Recognition (ILR) Workshop is a follow-up of five successful editions of our previous workshops &mdash; the first two having focused only on landmark recognition (<a href="https://landmarksworkshop.github.io/CVPRW2018" target="_blank"><span class="navy">CVPRW18</span></a>, <a href="https://landmarksworkshop.github.io/CVPRW2019" target="_blank"><span class="navy">CVPRW19</span></a>), and the later two expanded to two extra domains (artworks and products) (<a href="https://ilr-workshop.github.io/ECCVW2020/" target="_blank"><span class="navy">ECCVW20</span></a>, <a href="https://ilr-workshop.github.io/ICCVW2021/" target="_blank"><span class="navy">ICCVW21</span></a>).</p> The lastest one introduces universal image embedding. #<p><h1><b><font color="#CC3299">Our workshop location is the Grand Ballroom B, at the David Intercontinental hotel</font></b></h1></p>
+# comment
+  disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: ILR2024
+
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  # id:
+
+## google optimize
+go:
+  # id:
+
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
+
+## donation
+donation: on  # type 'on'/'off' to choice display donation button at post page or not
+
+## carousels
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
+
+# scss
+sass:
+  style: compressed
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+
+theme: jekyll-theme-cayman

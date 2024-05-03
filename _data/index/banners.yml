@@ -1,0 +1,9 @@
+# carousel banners section
+# Add items for each banner image in the carousel
+#
+# Images are expected to be located in `static/assets/img/`.
+- src: landing/tel-aviv-1.jpg
+  title: tel-aviv-beach
+
+- src: landing/tel-aviv-2.jpg
+  title: Photo by Vollformat Berlin.

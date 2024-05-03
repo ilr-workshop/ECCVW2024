@@ -1,0 +1,122 @@
+# schedules section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Welcome Remarks 
+  desc:
+    detail: Andre Araujo
+    video: https://drive.google.com/file/d/1055aMkvgW10owsqVoPcEl9ZXlpseGhu7/view?usp=share_link
+    slides: 
+    host: 
+  date:
+    detail: Oct. 24th, 9:00am-9:10am (GMT+3)
+  icon: fa-microphone
+
+- name: 
+    detail: Keynote talk
+  desc:
+    detail: Vicente Ordonez, Rice University
+    video: https://drive.google.com/file/d/1TiM_i4ChrU0e7IhhMSTN_J5S042LWPJe/view?usp=share_link
+    slides: 
+    host: Tobias Weyand
+  date:
+    detail: Oct. 24th, 9:10am-9:40am (GMT+3)
+  icon: fa-microphone 
+
+- name:
+    detail: "Universal Embedding Challenge: Overview and Presentations"
+  desc:
+    detail: Bingyi Cao
+    video: https://drive.google.com/file/d/1cNUyBffqclQh2CN0o_FFZGnVEc-_Q9_z/view?usp=share_link
+    video2: https://drive.google.com/file/d/1a5jH2pvOXhkTUoMjHY-wuGSJVKI8VC3u/view
+    video3: https://drive.google.com/file/d/1Z6ol64puUqnQ93KcOMaZBd5BtReo-ix0/view?usp=share_link
+    slides: 
+    host:
+  date:
+    detail: Oct. 24th, 9:40am-10:10am (GMT+3)
+  icon: fa-microphone 
+
+- name:
+    detail: Keynote talk
+  desc:
+    detail: Minsu Cho, POSTECH
+    video: https://drive.google.com/file/d/1mf8HzVizBhcgift03zKCpIBxfEdNxTvO/view?usp=share_link
+    slides: 
+    host: Bohyung Han
+  date:
+    detail: Oct. 24th, 10:10am-10:40am (GMT+3)
+  icon: fa-microphone 
+
+- name:
+    detail: Break 
+  desc:
+    detail: 
+    title: 
+    video: 
+    host: 
+  date:
+    detail: Oct. 24th, 10:40am-11:10am (GMT+3)
+  icon: 
+
+- name:
+    detail: "Language Assisted Product Search: Overview"
+  desc:
+    detail: Xu Zhang
+    video: https://drive.google.com/file/d/1eD137epSnvEy41bo5v8ttuPDCJ_QRj7W/view?usp=share_link
+    slides: 
+    host:
+  date:
+    detail: Oct. 24th, 11:10am-11:30am (GMT+3)
+  icon: fa-microphone 
+
+- name:
+    detail: Invited paper talk - "Granularity-aware Adaptation for Image Retrieval over Multiple Tasks"
+  desc:
+    detail: Jon Almazan, Byungsoo Ko, Geonmo Gu, Diane Larlus and Yannis Kalantidis
+    video: https://drive.google.com/file/d/1g78EoSdkX1iEIZ3GoHk6ttrhHGVV_frr/view?usp=share_link
+    slides: 
+    host: Torsten Sattler
+  date:
+    detail: Oct. 24th, 11:30am-11:40am (GMT+3)
+  icon: fa-microphone 
+
+- name:
+    detail: Invited paper talk - "Where in the World is this Image? Transformer-based Geo-localization in the Wild"
+  desc:
+    detail: Shraman Pramanick, Ewa Nowara, Joshua Gleason, Carlos Castillo and Rama Chellappa
+    video: https://drive.google.com/file/d/1U6d69PTktvWVle0PpvuHkW1j-FUJCIPf/view?usp=share_link
+    host: Torsten Sattler
+  date:
+    detail: Oct. 24th, 11:40am-11:50am (GMT+3)
+  icon: fa-microphone
+
+- name:
+    detail: "Invited paper talk - What to Hide from Your Students: Attention-Guided Masked Image Modeling"
+  desc:
+    detail: Ioannis Kakogeorgiou, Spyros Gidaris, Bill Psomas, Yannis Avrithis, Andrei Bursuc, Konstantinos Karantzalos and Nikos Komodakis
+    video: https://drive.google.com/file/d/1_UD57za1IIMB0GusxDl6ea5-2rXwqKIN/view?usp=share_link
+    host: Torsten Sattler
+  date:
+    detail: Oct. 24th, 11:50am-12:00pm (GMT+3)
+  icon: fa-microphone
+
+- name:
+    detail: Keynote talk
+  desc:
+    detail: Mathilde Caron, Google Research
+    title: 
+    video: https://drive.google.com/file/d/16y8uFjV9YffCfQwT6r7XXLWiOWoDeLYc/view?usp=share_link
+    host: Giorgos Tolias
+  date:
+    detail: Oct. 24th, 12:00pm-12:30pm (GMT+3) 
+  icon: fa-microphone 
+
+- name:
+    detail: Closing Remarks  
+  desc:
+    detail: Andre Araujo
+    video: https://drive.google.com/file/d/1dNP3oMlAxZu0H0q9nSE5pyYg4o9GbZP8/view?usp=share_link
+    slides: 
+    host:
+  date:
+    detail: Oct. 24th, 12:30pm-12:35pm (GMT+3) 
+  icon: fa-microphone 
