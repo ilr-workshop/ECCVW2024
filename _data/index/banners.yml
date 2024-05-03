@@ -4,3 +4,6 @@
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/milan.jpg
   title: milan
+
+- src: landing/milan2.jpg
+  title: milan
