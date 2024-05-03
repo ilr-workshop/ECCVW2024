@@ -3,29 +3,29 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 #
 
-- name: Minsu Cho
-  url: https://scholar.google.com/citations?user=5TyoF5QAAAAJ&hl=en
-  i18n: Minsu Cho
-  img: /static/assets/img/landing/chominsu.jpg
-  desc: Associate Professor of CSE & AI, POSTECH
-  title: Few-Shot Learning for Object-Aware Visual Recognition 
-  abstract: Few-shot learning has been actively studied for visual recognition tasks such as image classification and semantic segmentation. Existing methods, however, are limited in understanding diverse levels of visual cues and analyzing fine-grained correspondence relations between the query and the support images. This prevents few-shot learning from generalizing to and evaluating on more realistic cases in the wild. In this talk, I will introduce our recent work for object-aware few-shot learning that tackles the challenge by leveraging multi-level feature correlations and high-order convolution/self-attention. I will also present an integrative few-shot learning framework that combines two conventional few-shot learning problems, few-shot classification and segmentation, and generalizes them to more realistic episodes with arbitrary image pairs, where each target class may or may not be present in the query. In experiments, the proposed method shows promising performance on the joint problem of classification and segmentation and also achieves the state of the art on standard few-shot segmentation benchmarks.
+- name: Cordelia Schmid 
+  url: https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en
+  i18n: Cordelia Schmid
+  img: /static/assets/img/landing/cordelia.jpg
+  desc: Inria Research Director
+  title: 
+  abstract: 
   bio: 
 
-- name: Vicente Ordonez
-  url: https://scholar.google.com/citations?user=TtA_j4YAAAAJ&hl=en
-  i18n: Vicente Ordonez
-  img: /static/assets/img/landing/vicente-2021-small.jpg
-  desc: Associate Professor of Computer Science, Rice University
-  title: "Searching for Images: Granularity, Compositionality, Interpretability, and Multimodality"
-  abstract: "Visual representation learning has made great progress in recent years. We can reuse models that can map images to a common semantic space with a high degree of accuracy, however, using these representations for searching images among large collections is not enough. When users search for images in their personal image collections, on an e-commerce site, or on the web, they generally search with very different intentions. I will outline here some desirable properties of retrieval models and outline some of our work in instance-level image retrieval with Reranking Transformers (RRTs) (https://arxiv.org/abs/2103.12236), iterative and interpretable retrieval using a Drill-down approach (https://arxiv.org/abs/1911.03826), and our more recent work on multilingual and multimodal learning (https://aclanthology.org/2020.findings-emnlp.328, https://arxiv.org/abs/2206.15462)."
+- name: Varun Jampani
+  url: https://scholar.google.com/citations?user=1Cv6Sf4AAAAJ&hl=en
+  i18n: Varun Jampani
+  img: /static/assets/img/landing/giorgos.jpg
+  desc: Lead Researcher at Stability AI
+  title: 
+  abstract: 
   bio: 
 
-- name: Mathilde Caron
-  url: https://scholar.google.com/citations?user=eiB0s-kAAAAJ&hl=fr
-  i18n: Mathilde Caron
-  img: /static/assets/img/landing/Mathilde_Caron.jpg
-  desc: Research Scientist at Google Research
-  title: Instance-level recognition for self-supervised learning, and vice versa 
-  abstract: Self-supervised learning (SSL) consists in training neural network systems without using any human annotations. In this talk, I will present how instance-level recognition has inspired the recent successful approaches in SSL. Secondly, I will show how self-supervised models can give back to the instance-level recognition community by providing features more suited to tackle challenging image retrieval benchmarks than their class-level supervised counterparts.
+- name: Giorgos Kordopatis-Zilos
+  url: https://scholar.google.com/citations?user=Do-7qx4AAAAJ&hl=en
+  i18n: Giorgos Kordopatis-Zilos
+  img: /static/assets/img/landing/varun.jpeg
+  desc: Postdoctoral Researcher at the CTU in Prague
+  title: 
+  abstract: 
   bio: 

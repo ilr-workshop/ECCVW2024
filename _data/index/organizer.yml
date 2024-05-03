@@ -11,6 +11,12 @@
   website: 
   email: bingyi@google.com
 
+- last_name: Kaifeng
+  first_name: Chen
+  desc: Google Research
+  website: https://scholar.google.com/citations?user=xjEcoNQAAAAJ&hl=en
+  email: francischen@google.com
+
 - last_name: Ondrej
   first_name: Chum
   desc: Czech Technical University
@@ -29,23 +35,11 @@
   website: https://cv.snu.ac.kr/index.php/~bhhan/
   email: bhhan@snu.ac.kr
 
-- last_name: Shih-Fu
-  first_name: Chang
-  desc: Columbia University 
-  website: https://www.ee.columbia.edu/~sfchang/
-  email: sc250@columbia.edu
-
 - last_name: Guangxing
   first_name: Han
   desc: Columbia University 
   website: https://guangxinghan.github.io
-  email: gh2561@columbia.edu
-
-- last_name: Pradeep 
-  first_name: Natarajan
-  desc: Amazon Alexa
-  website: 
-  email: natarap@amazon.com
+  email: guangxinghan@gmail.com
 
 - last_name: Giorgos
   first_name: Tolias
@@ -53,26 +47,20 @@
   website: http://cmp.felk.cvut.cz/~toliageo/
   email: giorgos.tolias@cmp.felk.cvut.cz
 
-- last_name: Tobias 
-  first_name: Weyand
-  desc: Google Research
-  website: https://research.google/people/104862/
-  email: weyand@google.com
+- last_name: Hao
+  first_name: Yang
+  desc: Amazon
+  website: https://sites.google.com/site/lancelot365/
+  email: Lancelot365@gmail.com
+
+- last_name: Nikolaos-Antonios
+  first_name: Ypsilantis
+  desc: Czech Technical University
+  website: https://nikosips.github.io/
+  email: ypsilnik@fel.cvut.cz
 
 - last_name: Xu 
   first_name: Zhang
-  desc: Amazon Alexa
+  desc: Amazon
   website: https://xu-zhang-1987.github.io/
   email: xzhnamz@amazon.com 
-
-- last_name: Torsten
-  first_name: Sattler
-  desc: Czech Technical University
-  website: https://tsattler.github.io/ 
-  email: torsat@chalmers.se
-
-- last_name: Sanqiang 
-  first_name: Zhao
-  desc: Amazon Alexa
-  website: https://scholar.google.com/citations?user=VVtltoEAAAAJ&hl=en
-  email: sanqiang@amazon.com
