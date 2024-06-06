@@ -8,9 +8,9 @@
 
 - id: Call For Paper
   i18n: nav.challenge
-  name: call_for_paper
-  tpl: challenge.html
-  css: challenge
+  name: 
+  tpl: call_for_paper.html
+  css: 
 
 # - id: Challenge
 #   i18n: nav.challenge
