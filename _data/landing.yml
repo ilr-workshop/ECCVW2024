@@ -6,7 +6,7 @@
   tpl: about.html
   css:
 
-- id: Call For Papers
+- id: Call_For_Papers
   i18n: nav.challenge
   name: Call For Papers
   tpl: call_for_paper.html
