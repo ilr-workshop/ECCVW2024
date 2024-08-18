@@ -36,6 +36,13 @@
   tpl: speaker.html
   css: speaker
 
+- id: Accepted_Papers
+  i18n: nav.challenge
+  name: Accepted Papers
+  tpl: accepted_papers.html
+  css: 
+
+
 - id: Organizers
   i18n: nav.organizer
   name: organizers
