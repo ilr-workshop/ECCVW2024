@@ -12,17 +12,17 @@
 #   tpl: challenge.html
 #   css: challenge
 
-# - id: Timetable
-#   i18n: nav.Timetable
-#   name: Timetable
-#   tpl: timetable.html
-#   css: timeline
-
-- id: Schedule
-  i18n: nav.schedule
-  name: schedule
-  tpl: schedule.html
+- id: Timetable
+  i18n: nav.Timetable
+  name: Timetable
+  tpl: timetable.html
   css: timeline
+
+# - id: Schedule
+#   i18n: nav.schedule
+#   name: schedule
+#   tpl: schedule.html
+#   css: timeline
 
 - id: Speaker 
   i18n: nav.speaker
