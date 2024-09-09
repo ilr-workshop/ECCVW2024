@@ -53,7 +53,7 @@
     host: 
   date:
     detail: Sep. 30th, 11:05am-11:35am (UTC+2/CEST)
-  icon: 
+  icon: fa-microphone 
 
 - name:
     detail: Invited papers
