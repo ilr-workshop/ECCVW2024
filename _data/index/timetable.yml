@@ -12,7 +12,7 @@
   icon: fa-microphone
 
 - name: 
-    detail: Keynote 1: Cordelia Schmid
+    detail: Keynote 1
   desc:
     detail: Cordelia Schmid
     video: 
@@ -45,7 +45,7 @@
   icon: fa-microphone 
 
 - name:
-    detail: Keynote 2: Giorgos Kordopatis-Zilos 
+    detail: Keynote 2 
   desc:
     detail: Giorgos Kordopatis-Zilos
     title: 
@@ -67,7 +67,7 @@
   icon: fa-microphone 
 
 - name:
-    detail: Keynote 3: Varun Jampani
+    detail: Keynote 3
   desc:
     detail: Varun Jampani
     video: 
