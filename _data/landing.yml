@@ -30,16 +30,16 @@
   tpl: speaker.html
   css: speaker
 
-- id: Invited_Papers
-  i18n: nav.challenge
-  name: Invited Papers
-  tpl: invited_papers.html
-  css: 
-
 - id: Accepted_Papers
   i18n: nav.challenge
   name: Accepted Papers
   tpl: accepted_papers.html
+  css: 
+
+- id: Invited_Papers
+  i18n: nav.challenge
+  name: Invited Papers
+  tpl: invited_papers.html
   css: 
 
 - id: Call_For_Papers
