@@ -17,9 +17,9 @@
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="timetable.{{ timetable.name.i18n }}">{{ timetable.name.detail }}</span></h2>
                         {% if timetable.desc.detail1 %}
-                        <ul>
-                            <li> <p><span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.detail }} </span> <br />
-                            <li> <p><span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.detail1 }} </span> <br />
+                        <p><ul>
+                            <li> <span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.detail }} </span> <br />
+                            <li> <span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.detail1 }} </span> <br />
                         </ul>
                         {% elif timetable.desc.detail %}
                         <p><span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.detail }} </span> <br />
