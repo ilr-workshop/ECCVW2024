@@ -25,7 +25,8 @@
 - name:
     detail: Oral session
   desc:
-    detail: - Segment, Select, Correct - A Framework for Weakly-Supervised Referring Segmentation <br> - Leveraging Object Priors for Point Tracking
+    detail: Segment, Select, Correct - A Framework for Weakly-Supervised Referring Segmentation 
+    detail1: Leveraging Object Priors for Point Tracking
     video: 
     slides: 
     host:
