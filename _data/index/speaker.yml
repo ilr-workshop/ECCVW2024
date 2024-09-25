@@ -8,7 +8,7 @@
   i18n: Cordelia Schmid
   img: /static/assets/img/landing/cordelia.jpg
   desc: Research Director at INRIA and Google DeepMind
-  title: 
+  title: Fine-grained image classification based on retrieval and data generation
   abstract: 
   bio: 
 
@@ -17,7 +17,7 @@
   i18n: Varun Jampani
   img: /static/assets/img/landing/varun.jpeg
   desc: Lead Researcher at Stability AI
-  title: 
+  title: Instance-specific 2D and 3D generation
   abstract: 
   bio: 
 
@@ -26,6 +26,6 @@
   i18n: Giorgos Kordopatis-Zilos
   img: /static/assets/img/landing/giorgos.jpg
   desc: Postdoctoral Researcher at the CTU in Prague
-  title: 
+  title: Visual similarity learning for instance-level image and video retrieval
   abstract: 
   bio: 
