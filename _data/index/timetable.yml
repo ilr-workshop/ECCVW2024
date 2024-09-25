@@ -50,7 +50,7 @@
     detail: Keynote 2 
   desc:
     detail: Giorgos Kordopatis-Zilos
-    title: 
+    title: Visual similarity learning for instance-level image and video retrieval
     video: 
     host: 
   date:
@@ -72,6 +72,7 @@
     detail: Keynote 3
   desc:
     detail: Varun Jampani
+    title: Instance-specific 2D and 3D generation
     video: 
     slides: 
     host: 
