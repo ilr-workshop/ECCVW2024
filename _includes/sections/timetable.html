@@ -23,13 +23,15 @@
                             <li> <span data-i18n="timetable.{{ timetable.desc.i18n }}">PetFace: A Large-Scale Dataset and Benchmark for Animal Identification </span> <br />
                             <li> <span data-i18n="timetable.{{ timetable.desc.i18n }}">MeshVPR: Citywide Visual Place Recognition Using 3D Meshes </span> <br />
                         </ul>
-                        {% else if timetable.desc.detail1 %}
+                        {% endif %}
+                        {% if timetable.desc.detail1 %}
                         <p>
                         <ul>
                             <li> <span data-i18n="timetable.{{ timetable.desc.i18n }}">Segment, Select, Correct: A Framework for Weakly-Supervised Referring Segmentation </span> <br />
                             <li> <span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.detail1 }} </span> <br />
                         </ul>
-                        {% else %}
+                        {% endif %}
+                        {% if timetable.desc.detail %}
                         <p><span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.detail }} </span> <br />
                         {% endif %}
                         {% if timetable.desc.title %}
