@@ -16,7 +16,14 @@
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="timetable.{{ timetable.name.i18n }}">{{ timetable.name.detail }}</span></h2>
-                        {% if timetable.desc.detail1 %}
+                        {% if timetable.desc.detail2 %}
+                        <p>
+                        <ul>
+                            <li> <span data-i18n="timetable.{{ timetable.desc.i18n }}">Grounding Language Models for Visual Entity Recognition </span> <br />
+                            <li> <span data-i18n="timetable.{{ timetable.desc.i18n }}">PetFace: A Large-Scale Dataset and Benchmark for Animal Identification </span> <br />
+                            <li> <span data-i18n="timetable.{{ timetable.desc.i18n }}">MeshVPR: Citywide Visual Place Recognition Using 3D Meshes </span> <br />
+                        </ul>
+                        {% else if timetable.desc.detail1 %}
                         <p>
                         <ul>
                             <li> <span data-i18n="timetable.{{ timetable.desc.i18n }}">Segment, Select, Correct: A Framework for Weakly-Supervised Referring Segmentation </span> <br />
