@@ -51,6 +51,7 @@
     detail: Giorgos Kordopatis-Zilos
     title: Visual similarity learning for instance-level image and video retrieval
     video: 
+    slides: https://github.com/ilr-workshop/ECCVW2024/blob/master/static/assets/slides/ilrw_keynote_pdf.pdf
     host: 
   date:
     detail: Sep. 30th, 11:05am-11:35am (UTC+2/CEST)
@@ -73,7 +74,7 @@
     detail: Varun Jampani
     title: Instance-specific 2D and 3D generation
     video: 
-    slides: 
+    slides: https://github.com/ilr-workshop/ECCVW2024/blob/master/static/assets/slides/Instance_specific_2D_3D_Generation_ECCV24_workshop.pdf
     host: 
   date:
     detail: Sep. 30th, 12:05pm-12:35pm (UTC+2/CEST)
